@@ -1,1 +1,2 @@
-Hi there 👋
+# .github
+A ✨special ✨ repository!
